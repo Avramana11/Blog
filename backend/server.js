@@ -19,7 +19,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(express.urlencoded({extended:true}));
 const allowedOrigins = [
-    "https://mern-blog-ha28.onrender.com",
+    "https://blog-9j4h.onrender.com/",
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:5175"
